@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning R for data analysis
 - 💞️ I’m looking to collaborate on my learning path
 - 😄 Pronouns: Mr A.Haleem
-- ⚡ Fun fact: i just learn how to use computer past month
+- ⚡ Fun fact: i just learn how to use a computer past month
 
 <!---
 AhmedAbdalhalleem/AhmedAbdalhalleem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
